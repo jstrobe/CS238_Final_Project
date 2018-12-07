@@ -11,10 +11,10 @@
 #     -- Generate three files -- one for each MDP
 #     -- Input: raw data generated (csv)
 #     -- Output: 3 CSV's
-# 3. Find optimal policy for each file
+# 3. File 3: Find optimal policy for each file
 #     -- Input: Processed data files
 #     -- Output: Three optimal policy text files
-# 4. Test each optimal policy with x random policies to compare efficiency
+# 4. File 4: Test each optimal policy with x random policies to compare efficiency
 #     -- Input: Processed CSV's; Optimal policy files
 #     -- Prints scores
 
